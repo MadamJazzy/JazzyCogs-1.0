@@ -1,0 +1,8 @@
+{
+    "AUTHOR" : "Jazzibell",
+    "INSTALL_MSG" : "Thank you for installing the staffapp cog by Jazzibell.",
+    "NAME" : "staffapp",
+    "SHORT" : "Staff Application Cog",
+    "DESCRIPTION" : "A quick and easy way to handle Staff Applications. use [p]staffset to set variables.",
+    "TAGS" : ["staff", "app", "utility", "application"]
+}     
